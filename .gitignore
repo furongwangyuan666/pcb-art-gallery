@@ -1,0 +1,15 @@
+# OS & Editor temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.tmp
+*.autosave
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local EasyEDA / Gerber test exports (if generated locally)
+*Gerber*.zip
+state.json
